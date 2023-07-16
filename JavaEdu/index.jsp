@@ -6,10 +6,6 @@ String s = request.getParameter("dan")==null? "2": request.getParameter("dan") ;
 
  
 int int_val = Integer.parseInt(s);
-
-
-
-
 %>
 
 
